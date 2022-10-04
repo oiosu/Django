@@ -1,4 +1,6 @@
-### 💡 Django란? 
+
+
+## 💡 Django란? 
 
 ![image](https://user-images.githubusercontent.com/99783474/193728776-4352cfef-9734-465b-a80a-c8a0f47302f5.png)
 
