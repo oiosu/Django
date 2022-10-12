@@ -363,3 +363,13 @@
 
 
 ![image](https://user-images.githubusercontent.com/99783474/193729407-98670297-9250-45d1-b63e-b6de131ed1e9.png)
+
+
+
+---
+
+## [Django CRUD 기본적인 흐름 정리](https://github.com/oiosu/Django_CRUD)
+
+
+
+
